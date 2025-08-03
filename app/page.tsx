@@ -86,8 +86,8 @@ export default function HomePage() {
                 </div>
               </div>
               
-              <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-gray-900 leading-tight">
-                Γενικός Χειρουργός με 25ετή <span className="text-teal-600">Εμπειρία</span> & Σύγχρονη Προσέγγιση
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
+                <span className="text-teal-600">Γενικός Χειρουργός</span> με 25ετή <span className="text-teal-600">Εμπειρία</span> & Σύγχρονη Προσέγγιση
               </h1>
               
               <p className="text-xl text-gray-600 leading-relaxed max-w-2xl">
